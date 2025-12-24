@@ -1,2 +1,2 @@
 # Aprendiendo-github
-Mi primer repositorio para aprender github
+Este repositorio es para aprender a usar github desde cero. No soy programador, estoy aprendiendo este paso
